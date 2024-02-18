@@ -1,0 +1,14 @@
+165742aa689f3790dd8a9c3d4bde1bdc  GvimExt.reg
+de9c498dc25e5f6e720046e0b8ece335  Make_ming.mak
+7f7b5fc8981fba1fe8d09629d7d7127b  Make_mvc.mak
+96c591f4445c635660c28188b6cb797a  Makefile
+aadb8966578b859c4d518d037a8a77b9  README.txt
+abbb3cd32c0bfc4de610f8814237fcf7  gvimext.cpp
+5e997d04dc2987ca16b6c3726bc9f380  gvimext.def
+ab87aa9ea10a073dd8705679b5b44661  gvimext.h
+2b0b7f30008b52cc4e869fdeebf549ec  gvimext.inf
+1aa8703c8aa8ce41d38f545d25f91d9a  gvimext.rc
+44266763de396fc0b84d8d1273c66f48  gvimext_ming.def
+93fb63815286c9c863c8715e21cc0722  gvimext_ming.rc
+314caa5ece14c97fdec254c808533a3d  resource.h
+8a5430818656a08e9c3e56335eb69cee  uninst.bat

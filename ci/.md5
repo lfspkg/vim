@@ -1,0 +1,11 @@
+e52d8b44c34cf8343cc018798dcaf3a0  appveyor.bat
+622fb6b6df6e7479ef42ce6112aaea6a  config.mk.clang-12.sed
+099b5428de094fba09e9b4d4384a2542  config.mk.clang.sed
+27756704279ca4745f82743ff14fc226  config.mk.gcc.sed
+8e73b1bae05867d1f56940e661091e28  config.mk.sed
+58dd488740f832c2a9d35c3443b83952  if_ver-1.vim
+a6db32ac5a89e5cf6c688a924a10dd67  if_ver-2.vim
+5b0e97014106ee74e84358dd4621b4be  if_ver-cmd.vim
+9a041dd9208a375e3c9f080e0e122c30  remove_snap.sh
+09f4cfb75a976f786a9b176224b23408  setup-xvfb.sh
+631e6ae3122784df0951def75b19edb6  unlisted.make

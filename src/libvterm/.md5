@@ -1,0 +1,14 @@
+5295c58c686162d7161bd1f6093a86ea  .bzrignore
+6ec463bdb9561a9637783804afcfd9e8  .gitignore
+556502ab88952aac5aacd305630837c6  CODE-MAP
+44f0f64a5448ff3bb160e81436c03af0  CONTRIBUTING
+be5681ffe0dc58ccc9756bc6260fe0cd  LICENSE
+834f15c14971cf47440133b3f2ac9d83  Makefile
+372ca92c1074629f36c94ceae3812ed9  README
+7e5bb034c0d152917412762d50d44b2c  doc/.md5
+71ee974b355ae82578bc4f77badded0f  find-wide-chars.pl
+1385ec0f7fa4746e9bdc5675b91a6b86  include/.md5
+e8ce88018c85e2459e55b1c8b34a8043  src/.md5
+e25fa943349aec922bd3fd89badafbf3  t/.md5
+04b18b1f4ad285790a115cbac4d5bd1d  tbl2inc_c.pl
+9f679cbaa12b2d507a210973f7a89522  vterm.pc.in
